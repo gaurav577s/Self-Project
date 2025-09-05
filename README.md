@@ -90,3 +90,6 @@ Place all your .pkl transaction files inside this folder.
 Run the Jupyter Notebook
 jupyter notebook Fraud_Detection.ipynb
 Execute the cells sequentially to reproduce results.
+<img width="622" height="470" alt="ml1" src="https://github.com/user-attachments/assets/5b6609d7-bf1e-4f8f-a29b-dae8efc166ee" />
+<img width="533" height="455" alt="ml" src="https://github.com/user-attachments/assets/7ac8eac9-95e6-45b3-8706-774895180a55" />
+
